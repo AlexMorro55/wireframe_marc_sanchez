@@ -7,7 +7,57 @@ body {
 		display: flex;
 	}
 	.barralateral {
+		background-color: peru;
 		width: 10%;
 		padding-left: 3%;
+		padding-top: 3%;
 	}
+	.inicio {
+		background-color: #FF4486;
+		border-radius: 10px;
+		width: 50%;
+		margin-top: 5%;
+		margin-left: 2%;
+		padding-left: 21%;
+		align-items: center;
+		padding: 10px 0px  9px 19%;
+	}
+	.iniciop {
+	/*	padding-top: 15%; */
+	}
+	.multformfoot {
+	}
+	.mult {
+		margin-top: 15%;
+		color: #44D1FF;
+	}
+	.form {
+		padding-left: 5%;
+		margin-top: 15%;
+	}
+	.foot {
+		padding-left: 5%;
+		margin-top: 15%;
+		margin-bottom: 15%;
+	}
+	.contactuno{
+		background-color: #666666;
+		border-radius: 10px;
+		width: 50%;
+		margin-left: 2%;
+		padding-left: 21%;
+		align-items: center;
+		padding: 10px 0px  9px 19%;
+	}
+	.nosotros1 {
+		border: solid #666666 4px;
+		border-radius: 10px;
+		width: 60%;
+		margin-top: 5%;
+		margin-left: 2%;
+		padding-left: 21%;
+		align-items: center;
+		padding: 4px 0px  4px 6%;
+	}
+	
 }
