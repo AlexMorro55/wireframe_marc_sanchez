@@ -1,0 +1,13 @@
+body {
+	margin: 0px;
+}
+
+@media(min-width: 1500px) {
+	.entero {
+		display: flex;
+	}
+	.barralateral {
+		width: 10%;
+		padding-left: 3%;
+	}
+}
