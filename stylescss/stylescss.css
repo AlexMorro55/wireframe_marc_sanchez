@@ -433,7 +433,6 @@
 			width: 80%;
 		}
 		
-
         .section-title {
             font-size: 20px;
             font-weight: bold;
@@ -443,7 +442,6 @@
             letter-spacing: 2px;
         }
 
-        /* CONTENEDOR DE TARJETAS */
         .cards-container {
             background-color: #e8e8e8;
             padding: 15px;
@@ -466,8 +464,6 @@
             text-align: center;
         }
 
-        
-
         .card-title {
             font-weight: 600;
             color: #333;
@@ -480,7 +476,6 @@
             color: #999;
         }
 
-        /* TABLA DE EMOJIS */
         .emoji-table {
             width: 100%;
             border-collapse: collapse;
@@ -507,7 +502,6 @@
             background-color: #f0f0f0;
         }
 
-        /* Dividir tabla en dos filas: 2 columnas cada una */
         .emoji-table tr:nth-child(3) {
             display: none;
         }
@@ -540,7 +534,6 @@
             grid-column: auto;
         }
 
-        /* Headers personalizados para cada tabla */
         .emoji-table::before {
             content: "Tarjeta 1  |  Tarjeta 2";
             display: block;
@@ -555,7 +548,6 @@
             margin-bottom: 1px;
         }
 
-        /* FORMULARIO DE PERFIL */
         .form-section {
             background-color: #f0f0f0;
             padding: 20px;
@@ -631,7 +623,6 @@
             background-color: #f5f5f5;
         }
 
-        /* FOOTER */
         .footer {
             background-color: #f0f0f0;
             border-top: 1px solid #e0e0e0;
